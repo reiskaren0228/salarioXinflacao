@@ -30,11 +30,11 @@ $ node salarioXinflacao.js
 $ node salarioXinflacao.js
 ````
 
-### Data
+### 4 - Data
 The data is pre-defined in the code, including minimum wages and IPCA values for each year.
 
-### Development
+### 5 - Development
 Feel free to contribute to the project by opening issues or submitting pull requests.
 
-### License
+### 6 - License
 This project is licensed under the MIT License.
